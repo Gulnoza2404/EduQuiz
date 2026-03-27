@@ -1,0 +1,28 @@
+[
+  {
+    "id": "b4312fbd-c38f-40dc-b846-fd6837c35f04",
+    "title": "poi8u7y6tr",
+    "description": "kiluytrd",
+    "category": "Texnologiya",
+    "difficulty": "O'rta",
+    "timeLimit": 30,
+    "questions": [
+      {
+        "question": "p98765tr",
+        "options": [
+          "oiuyt",
+          "lkjhg",
+          "mjhgf",
+          "jhytr"
+        ],
+        "correctAnswer": 0,
+        "explanation": ""
+      }
+    ],
+    "createdBy": "3239ca6c-50bc-4668-8a26-17c9ebe1ffe4",
+    "createdByUsername": "Gulnoza22222",
+    "plays": 1,
+    "averageScore": 100,
+    "createdAt": "2026-03-27T10:04:01.124Z"
+  }
+]
